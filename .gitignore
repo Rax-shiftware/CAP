@@ -1,0 +1,4 @@
+# ignore some functionallity files
+vax/index.js
+vax/main.py
+vax/options.psh
